@@ -1,0 +1,14 @@
+torch
+transformers
+datasets
+accelerate
+peft
+trl
+scikit-learn
+numpy
+pandas
+tqdm
+rich
+pyyaml
+gradio
+matplotlib
